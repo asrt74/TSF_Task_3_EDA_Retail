@@ -4,4 +4,4 @@
 ### Also, we have to create a  dashboards and/or storyboard.
 My entire presentation is on:
 ####    YouTube: https://youtu.be/en_I06SCViU
-####    LinkedIn:  
+####    LinkedIn:  https://www.linkedin.com/posts/shreyas-ranveerkar-489233192_exploratory-data-analysis-retail-task-activity-6812116954409791488-fFiv
